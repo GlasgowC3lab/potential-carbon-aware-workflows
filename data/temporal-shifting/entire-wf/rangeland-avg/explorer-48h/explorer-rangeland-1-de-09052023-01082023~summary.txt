@@ -1,0 +1,686 @@
+Trace Report for [rangeland-1~01-00-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3386.1013636128055gCO2e
+
+Trace Report for [rangeland-1~00-23-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3097.2770502104086gCO2e
+
+Trace Report for [rangeland-1~00-22-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2832.273820466757gCO2e
+
+Trace Report for [rangeland-1~00-21-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2618.8628682185977gCO2e
+
+Trace Report for [rangeland-1~00-20-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2486.025669100571gCO2e
+
+Trace Report for [rangeland-1~00-19-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2479.3354125191336gCO2e
+
+Trace Report for [rangeland-1~00-18-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2589.9566207282005gCO2e
+
+Trace Report for [rangeland-1~00-17-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2761.919731837843gCO2e
+
+Trace Report for [rangeland-1~00-16-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2917.523648974712gCO2e
+
+Trace Report for [rangeland-1~00-15-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3038.915707575796gCO2e
+
+Trace Report for [rangeland-1~00-14-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3130.6683600838937gCO2e
+
+Trace Report for [rangeland-1~00-13-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3172.3164343951794gCO2e
+
+Trace Report for [rangeland-1~00-12-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3149.999394057453gCO2e
+
+Trace Report for [rangeland-1~00-11-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3065.231136338229gCO2e
+
+Trace Report for [rangeland-1~00-10-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2931.4924883709336gCO2e
+
+Trace Report for [rangeland-1~00-09-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2839.050844532891gCO2e
+
+Trace Report for [rangeland-1~00-08-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2752.747736723439gCO2e
+
+Trace Report for [rangeland-1~00-07-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2681.5685553269677gCO2e
+
+Trace Report for [rangeland-1~00-06-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2719.664888041357gCO2e
+
+Trace Report for [rangeland-1~00-05-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2766.231379909049gCO2e
+
+Trace Report for [rangeland-1~00-04-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2796.8279863756634gCO2e
+
+Trace Report for [rangeland-1~00-03-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2784.2501271790416gCO2e
+
+Trace Report for [rangeland-1~00-02-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2783.4820238374655gCO2e
+
+Trace Report for [rangeland-1~00-01-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2753.853706670726gCO2e
+
+Trace Report for [rangeland-1.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2717.0762123903346gCO2e
+
+Trace Report for [rangeland-1~00-01-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2753.853706670726gCO2e
+
+Trace Report for [rangeland-1~00-02-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2783.4820238374655gCO2e
+
+Trace Report for [rangeland-1~00-03-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2784.2501271790416gCO2e
+
+Trace Report for [rangeland-1~00-04-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2796.8279863756634gCO2e
+
+Trace Report for [rangeland-1~00-05-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2766.231379909049gCO2e
+
+Trace Report for [rangeland-1~00-06-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2719.664888041357gCO2e
+
+Trace Report for [rangeland-1~00-07-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2681.5685553269677gCO2e
+
+Trace Report for [rangeland-1~00-08-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2752.747736723439gCO2e
+
+Trace Report for [rangeland-1~00-09-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2839.050844532891gCO2e
+
+Trace Report for [rangeland-1~00-10-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2931.4924883709336gCO2e
+
+Trace Report for [rangeland-1~00-11-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3065.231136338229gCO2e
+
+Trace Report for [rangeland-1~00-12-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3149.999394057453gCO2e
+
+Trace Report for [rangeland-1~00-13-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3172.3164343951794gCO2e
+
+Trace Report for [rangeland-1~00-14-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3130.6683600838937gCO2e
+
+Trace Report for [rangeland-1~00-15-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3038.915707575796gCO2e
+
+Trace Report for [rangeland-1~00-16-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2917.523648974712gCO2e
+
+Trace Report for [rangeland-1~00-17-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2761.919731837843gCO2e
+
+Trace Report for [rangeland-1~00-18-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2589.9566207282005gCO2e
+
+Trace Report for [rangeland-1~00-19-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2479.3354125191336gCO2e
+
+Trace Report for [rangeland-1~00-20-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2486.025669100571gCO2e
+
+Trace Report for [rangeland-1~00-21-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2618.8628682185977gCO2e
+
+Trace Report for [rangeland-1~00-22-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 2832.273820466757gCO2e
+
+Trace Report for [rangeland-1~00-23-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3097.2770502104086gCO2e
+
+Trace Report for [rangeland-1~01-00-00.csv] using CI Data [de-09052023-01082023.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-09052023-01082023
+- power-usage-effectiveness: 1.0
+- min to max watts: 80.0W to 135.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 11.55727947289812kWh
+- Energy Consumption (inc. PUE): 11.55727947289812kWh
+- Memory Energy Consumption (exc. PUE): 1.4649592380271709e-07kWh
+- Memory Energy Consumption (inc. PUE): 1.4649592380271709e-07kWh
+- Carbon Emissions: 3386.1013636128055gCO2e
+

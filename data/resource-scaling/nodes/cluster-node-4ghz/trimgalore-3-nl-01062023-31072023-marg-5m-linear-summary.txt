@@ -1,0 +1,13 @@
+Carbon Footprint Trace:
+- carbon-intensity: nl-01062023-31072023-marg-5m
+- power-usage-effectiveness: 1.0
+- power model selected: linear
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 0.08533605135513889kWh
+- Energy Consumption (inc. PUE): 0.08533605135513889kWh
+- Memory Energy Consumption (exc. PUE): 0.0002772367090460883kWh
+- Memory Energy Consumption (inc. PUE): 0.0002772367090460883kWh
+- Carbon Emissions: 51.44784729466085gCO2e
+Task Runtime: 1956080ms

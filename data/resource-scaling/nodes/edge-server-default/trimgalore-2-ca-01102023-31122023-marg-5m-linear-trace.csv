@@ -1,0 +1,2 @@
+name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
+proc (1),1,13.831083632375854,0.017438572341154517,103.0|103.0|105.0|967.0|978.0|982.0|982.0|983.0|984.0|983.0|990.0,3031230,Intel(R) Core(TM) i7-10700T CPU @ 2.00GHz,1,None,909.0,5778370560.0,None

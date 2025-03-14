@@ -1,0 +1,3088 @@
+Trace Report for [chipseq-2~04-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26465.52887837528gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26286.753926026326gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26299.125091091908gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26122.52343486211gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25539.89898861997gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25177.07102018741gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25139.887172460447gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25169.11392815204gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25126.334355855102gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 24878.239001839742gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 24719.2001779564gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25104.09893077751gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26154.299167719062gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26690.969770450654gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26636.36478402648gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26957.72241166847gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27670.93548327153gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28234.9513762213gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28585.478569951407gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28321.75500717338gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28088.26412286081gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28282.611596173945gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28619.666080144903gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28198.62847312863gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27641.627806510616gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27223.17995093694gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26778.992871965165gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26584.010443913485gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26416.669537614136gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26271.91634723923gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26298.769176607562gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26308.741887809098gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26243.159879135994gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26176.613137389017gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26474.827385368164gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27023.571555643724gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27207.913120814123gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27452.188740351074gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27619.522079661576gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27751.579121774797gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26830.468737600055gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 23490.160117117324gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 19798.709595298566gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 12498.963818893613gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 9208.24887410623gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 9841.058446863508gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 13572.575733850714gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 14134.904861868461gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 22926.932959003323gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25547.39139501186gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27343.79998164985gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26910.95934745419gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26565.030256165406gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26358.66421754888gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26128.854093538528gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26084.14353801367gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26117.05163308224gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26162.645396531636gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26275.964771413925gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26338.795378347397gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26517.861833388783gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26851.968396050426gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27358.966748340812gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27934.684268292745gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28487.491138112917gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28690.881623805366gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28597.61193797305gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28440.66316181514gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28563.61199994705gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28615.78579826442gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28512.864680576025gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28184.31370183101gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28009.353010123854gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28019.13928857525gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27661.47669559356gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27014.74843441176gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26327.132578287557gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26145.885720009206gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26239.330950669268gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26375.605195273132gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26326.618424426608gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26133.13661713072gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26078.471680370945gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25985.745202899143gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26030.091002071946gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26746.00250535425gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27419.314682495184gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27719.20681310359gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28179.32036254435gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28470.981637864938gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28650.353380411325gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28546.731592626897gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28563.17744197421gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28456.78267378394gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28240.619722782034gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28009.742935737086gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27944.726158497193gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28009.742935737086gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28240.619722782034gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28456.78267378394gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28563.17744197421gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28546.731592626897gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28650.353380411325gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28470.981637864938gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28179.32036254435gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27719.20681310359gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27419.314682495184gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26746.00250535425gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26030.091002071946gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25985.745202899143gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26078.471680370945gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26133.13661713072gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26326.618424426608gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26375.605195273132gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26239.330950669268gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26145.885720009206gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26327.132578287557gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27014.74843441176gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27661.47669559356gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~00-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28019.13928857525gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28009.353010123854gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28184.31370183101gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28512.864680576025gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28615.78579826442gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28563.61199994705gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28440.66316181514gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28597.61193797305gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28690.881623805366gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28487.491138112917gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27934.684268292745gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27358.966748340812gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26851.968396050426gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26517.861833388783gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26338.795378347397gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26275.964771413925gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26162.645396531636gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26117.05163308224gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26084.14353801367gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26128.854093538528gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26358.66421754888gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26565.030256165406gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26910.95934745419gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27343.79998164985gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~01-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25547.39139501186gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 22926.932959003323gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 14134.904861868461gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 13572.575733850714gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 9841.058446863508gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 9208.24887410623gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 12498.963818893613gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 19798.709595298566gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 23490.160117117324gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26830.468737600055gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27751.579121774797gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27619.522079661576gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27452.188740351074gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27207.913120814123gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27023.571555643724gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26474.827385368164gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26176.613137389017gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26243.159879135994gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26308.741887809098gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26298.769176607562gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26271.91634723923gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26416.669537614136gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26584.010443913485gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26778.992871965165gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~02-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27223.17995093694gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27641.627806510616gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-01-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28198.62847312863gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-02-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28619.666080144903gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-03-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28282.611596173945gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-04-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28088.26412286081gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-05-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28321.75500717338gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-06-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28585.478569951407gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-07-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 28234.9513762213gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-08-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 27670.93548327153gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-09-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26957.72241166847gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-10-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26636.36478402648gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-11-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26690.969770450654gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-12-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26154.299167719062gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-13-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25104.09893077751gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-14-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 24719.2001779564gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-15-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 24878.239001839742gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-16-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25126.334355855102gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-17-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25169.11392815204gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-18-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25139.887172460447gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-19-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25177.07102018741gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-20-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 25539.89898861997gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-21-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26122.52343486211gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-22-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26299.125091091908gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~03-23-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26286.753926026326gCO2e
+Task Runtime: 644580150.0ms
+
+
+Trace Report for [chipseq-2~04-00-00.csv] using CI Data [de-15112023-08122023-marg.csv] with Shift [custom]
+Carbon Footprint Trace:
+- carbon-intensity: de-15112023-08122023-marg
+- power-usage-effectiveness: 1.0
+- min to max watts: 113.0W to 262.0W
+- memory-power-draw: 0.392
+
+Cloud Carbon Footprint Method:
+- Energy Consumption (exc. PUE): 35.187373033175156kWh
+- Energy Consumption (inc. PUE): 35.187373033175156kWh
+- Memory Energy Consumption (exc. PUE): 0.523998922924043kWh
+- Memory Energy Consumption (inc. PUE): 0.523998922924043kWh
+- Carbon Emissions: 26465.52887837528gCO2e
+Task Runtime: 644580150.0ms
+
+

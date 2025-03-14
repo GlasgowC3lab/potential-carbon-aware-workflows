@@ -1,0 +1,249 @@
+python3 -m src.scripts.CarbonFootprint chipseq-1 de-15112023-08122023 113.0 262.0 1.0 0.392 128.0 8
+mkdir output/summary-chipseq
+mv output/chipseq-1-de-15112023-08122023-summary.txt output/summary-chipseq/chipseq-1-summary.txt
+python3 -m src.scripts.CarbonFootprint chipseq-2 de-15112023-08122023 113.0 262.0 1.0 0.392 128.0 8
+mkdir output/summary-chipseq
+mv output/chipseq-2-de-15112023-08122023-summary.txt output/summary-chipseq/chipseq-2-summary.txt
+python3 -m src.scripts.CarbonFootprint chipseq-3 de-15112023-08122023 113.0 262.0 1.0 0.392 128.0 8
+mkdir output/summary-chipseq
+mv output/chipseq-3-de-15112023-08122023-summary.txt output/summary-chipseq/chipseq-3-summary.txt
+python3 -m src.scripts.Explorer chipseq-1.csv de-15112023-08122023.csv default 24 113.0 262.0
+mkdir output/explorer-48h/
+mv output/explorer-chipseq-1-de-15112023-08122023/explorer-chipseq-1-de-15112023-08122023~footprint.csv output/explorer-48h/
+mv output/explorer-chipseq-1-de-15112023-08122023/explorer-chipseq-1-de-15112023-08122023~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer chipseq-1.csv de-15112023-08122023.csv default 96 113.0 262.0
+mkdir output/explorer-192h/
+mv output/explorer-chipseq-1-de-15112023-08122023/explorer-chipseq-1-de-15112023-08122023~footprint.csv output/explorer-192h/
+mv output/explorer-chipseq-1-de-15112023-08122023/explorer-chipseq-1-de-15112023-08122023~summary.txt output/explorer-192h/
+python3 -m src.scripts.Explorer chipseq-2.csv de-15112023-08122023.csv default 24 113.0 262.0
+mkdir output/explorer-48h/
+mv output/explorer-chipseq-2-de-15112023-08122023/explorer-chipseq-2-de-15112023-08122023~footprint.csv output/explorer-48h/
+mv output/explorer-chipseq-2-de-15112023-08122023/explorer-chipseq-2-de-15112023-08122023~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer chipseq-2.csv de-15112023-08122023.csv default 96 113.0 262.0
+mkdir output/explorer-192h/
+mv output/explorer-chipseq-2-de-15112023-08122023/explorer-chipseq-2-de-15112023-08122023~footprint.csv output/explorer-192h/
+mv output/explorer-chipseq-2-de-15112023-08122023/explorer-chipseq-2-de-15112023-08122023~summary.txt output/explorer-192h/
+python3 -m src.scripts.Explorer chipseq-3.csv de-15112023-08122023.csv default 24 113.0 262.0
+mkdir output/explorer-48h/
+mv output/explorer-chipseq-3-de-15112023-08122023/explorer-chipseq-3-de-15112023-08122023~footprint.csv output/explorer-48h/
+mv output/explorer-chipseq-3-de-15112023-08122023/explorer-chipseq-3-de-15112023-08122023~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer chipseq-3.csv de-15112023-08122023.csv default 96 113.0 262.0
+mkdir output/explorer-192h/
+mv output/explorer-chipseq-3-de-15112023-08122023/explorer-chipseq-3-de-15112023-08122023~footprint.csv output/explorer-192h/
+mv output/explorer-chipseq-3-de-15112023-08122023/explorer-chipseq-3-de-15112023-08122023~summary.txt output/explorer-192h/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr uk-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-uk-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr de-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-de-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr nl-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-nl-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr fr-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-fr-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr ca-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-ca-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-04-03:09-00 1700955993471 chipseq-1-spr
+python3 -m src.scripts.CarbonFootprint chipseq-1-spr tx-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-spr-tx-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr uk-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-uk-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr de-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-de-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr nl-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-nl-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr fr-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-fr-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr ca-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-ca-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-04-03:09-00 1700969719140 chipseq-2-spr
+python3 -m src.scripts.CarbonFootprint chipseq-2-spr tx-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-spr-tx-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr uk-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-uk-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr de-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-de-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr nl-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-nl-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr fr-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-fr-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr ca-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-ca-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-04-03:09-00 1700982940372 chipseq-3-spr
+python3 -m src.scripts.CarbonFootprint chipseq-3-spr tx-spr-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-spr-tx-spr-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum uk-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-uk-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum de-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-de-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum nl-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-nl-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum fr-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-fr-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum ca-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-ca-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-07-03:09-00 1700955993471 chipseq-1-sum
+python3 -m src.scripts.CarbonFootprint chipseq-1-sum tx-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-sum-tx-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum uk-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-uk-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum de-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-de-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum nl-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-nl-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum fr-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-fr-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum ca-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-ca-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-07-03:09-00 1700969719140 chipseq-2-sum
+python3 -m src.scripts.CarbonFootprint chipseq-2-sum tx-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-sum-tx-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum uk-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-uk-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum de-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-de-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum nl-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-nl-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum fr-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-fr-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum ca-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-ca-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-07-03:09-00 1700982940372 chipseq-3-sum
+python3 -m src.scripts.CarbonFootprint chipseq-3-sum tx-sum-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-sum-tx-sum-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut uk-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-uk-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut de-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-de-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut nl-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-nl-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut fr-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-fr-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut ca-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-ca-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-09-03:09-00 1700955993471 chipseq-1-aut
+python3 -m src.scripts.CarbonFootprint chipseq-1-aut tx-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-aut-tx-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut uk-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-uk-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut de-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-de-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut nl-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-nl-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut fr-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-fr-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut ca-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-ca-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-09-03:09-00 1700969719140 chipseq-2-aut
+python3 -m src.scripts.CarbonFootprint chipseq-2-aut tx-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-aut-tx-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut uk-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-uk-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut de-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-de-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut nl-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-nl-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut fr-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-fr-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut ca-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-ca-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-09-03:09-00 1700982940372 chipseq-3-aut
+python3 -m src.scripts.CarbonFootprint chipseq-3-aut tx-aut-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-aut-tx-aut-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win uk-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-uk-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win de-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-de-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win nl-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-nl-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win fr-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-fr-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win ca-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-ca-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-1.csv , 2023-12-03:09-00 1700955993471 chipseq-1-win
+python3 -m src.scripts.CarbonFootprint chipseq-1-win tx-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-1-win-tx-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win uk-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-uk-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win de-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-de-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win nl-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-nl-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win fr-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-fr-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win ca-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-ca-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-2.csv , 2023-12-03:09-00 1700969719140 chipseq-2-win
+python3 -m src.scripts.CarbonFootprint chipseq-2-win tx-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-2-win-tx-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win uk-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-uk-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win de-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-de-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win nl-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-nl-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win fr-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-fr-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win ca-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-ca-win-day-summary.txt output/summary-chipseq/
+python3 -m src.scripts.Convertor change-start-ms chipseq-3.csv , 2023-12-03:09-00 1700982940372 chipseq-3-win
+python3 -m src.scripts.CarbonFootprint chipseq-3-win tx-win-day 113.0 262.0 1.0 0.392
+mv output/chipseq-3-win-tx-win-day-summary.txt output/summary-chipseq/

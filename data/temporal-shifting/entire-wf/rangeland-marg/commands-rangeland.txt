@@ -1,0 +1,251 @@
+python3 -m src.scripts.CarbonFootprint rangeland-1 de-09052023-01082023-marg 80.0 135.0 1.0 0.392 256.0 8
+mkdir output/summary-rangeland
+mv output/rangeland-1-de-09052023-01082023-marg-summary.txt output/summary-rangeland/rangeland-1-summary.txt
+python3 -m src.scripts.CarbonFootprint rangeland-2 de-09052023-01082023-marg 80.0 135.0 1.0 0.392 256.0 8
+mkdir output/summary-rangeland
+mv output/rangeland-2-de-09052023-01082023-marg-summary.txt output/summary-rangeland/rangeland-2-summary.txt
+python3 -m src.scripts.CarbonFootprint rangeland-3 de-09052023-01082023-marg 80.0 135.0 1.0 0.392 256.0 8
+mkdir output/summary-rangeland
+mv output/rangeland-3-de-09052023-01082023-marg-summary.txt output/summary-rangeland/rangeland-3-summary.txt
+python3 -m src.scripts.Explorer rangeland-1.csv de-09052023-01082023-marg.csv default 24 80.0 135.0
+mkdir output/explorer-48h/
+mv output/explorer-rangeland-1-de-09052023-01082023-marg/explorer-rangeland-1-de-09052023-01082023-marg~footprint.csv output/explorer-48h/
+mv output/explorer-rangeland-1-de-09052023-01082023-marg/explorer-rangeland-1-de-09052023-01082023-marg~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer rangeland-1.csv de-09052023-01082023-marg.csv default 96 80.0 135.0
+mkdir output/explorer-192h/
+mv output/explorer-rangeland-1-de-09052023-01082023-marg/explorer-rangeland-1-de-09052023-01082023-marg~footprint.csv output/explorer-192h/
+mv output/explorer-rangeland-1-de-09052023-01082023-marg/explorer-rangeland-1-de-09052023-01082023-marg~summary.txt output/explorer-192h/
+python3 -m src.scripts.Explorer rangeland-2.csv de-09052023-01082023-marg.csv default 24 80.0 135.0
+mkdir output/explorer-48h/
+mv output/explorer-rangeland-2-de-09052023-01082023-marg/explorer-rangeland-2-de-09052023-01082023-marg~footprint.csv output/explorer-48h/
+mv output/explorer-rangeland-2-de-09052023-01082023-marg/explorer-rangeland-2-de-09052023-01082023-marg~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer rangeland-2.csv de-09052023-01082023-marg.csv default 96 80.0 135.0
+mkdir output/explorer-192h/
+mv output/explorer-rangeland-2-de-09052023-01082023-marg/explorer-rangeland-2-de-09052023-01082023-marg~footprint.csv output/explorer-192h/
+mv output/explorer-rangeland-2-de-09052023-01082023-marg/explorer-rangeland-2-de-09052023-01082023-marg~summary.txt output/explorer-192h/
+python3 -m src.scripts.Explorer rangeland-3.csv de-09052023-01082023-marg.csv default 24 80.0 135.0
+mkdir output/explorer-48h/
+mv output/explorer-rangeland-3-de-09052023-01082023-marg/explorer-rangeland-3-de-09052023-01082023-marg~footprint.csv output/explorer-48h/
+mv output/explorer-rangeland-3-de-09052023-01082023-marg/explorer-rangeland-3-de-09052023-01082023-marg~summary.txt output/explorer-48h/
+python3 -m src.scripts.Explorer rangeland-3.csv de-09052023-01082023-marg.csv default 96 80.0 135.0
+mkdir output/explorer-192h/
+mv output/explorer-rangeland-3-de-09052023-01082023-marg/explorer-rangeland-3-de-09052023-01082023-marg~footprint.csv output/explorer-192h/
+mv output/explorer-rangeland-3-de-09052023-01082023-marg/explorer-rangeland-3-de-09052023-01082023-marg~summary.txt output/explorer-192h/
+
+
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr uk-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-uk-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr de-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-de-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr nl-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-nl-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr fr-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-fr-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr ca-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-ca-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-04-03:09-00 1684209700000 rangeland-1-spr
+python3 -m src.scripts.CarbonFootprint rangeland-1-spr tx-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-spr-tx-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr uk-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-uk-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr de-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-de-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr nl-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-nl-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr fr-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-fr-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr ca-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-ca-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-04-03:09-00 1687371000000 rangeland-2-spr
+python3 -m src.scripts.CarbonFootprint rangeland-2-spr tx-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-spr-tx-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr uk-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-uk-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr de-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-de-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr nl-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-nl-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr fr-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-fr-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr ca-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-ca-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-04-03:09-00 1690486500000 rangeland-3-spr
+python3 -m src.scripts.CarbonFootprint rangeland-3-spr tx-spr-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-spr-tx-spr-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum uk-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-uk-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum de-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-de-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum nl-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-nl-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum fr-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-fr-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum ca-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-ca-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-07-03:09-00 1684209700000 rangeland-1-sum
+python3 -m src.scripts.CarbonFootprint rangeland-1-sum tx-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-sum-tx-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum uk-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-uk-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum de-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-de-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum nl-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-nl-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum fr-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-fr-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum ca-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-ca-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-07-03:09-00 1687371000000 rangeland-2-sum
+python3 -m src.scripts.CarbonFootprint rangeland-2-sum tx-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-sum-tx-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum uk-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-uk-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum de-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-de-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum nl-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-nl-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum fr-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-fr-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum ca-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-ca-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-07-03:09-00 1690486500000 rangeland-3-sum
+python3 -m src.scripts.CarbonFootprint rangeland-3-sum tx-sum-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-sum-tx-sum-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut uk-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-uk-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut de-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-de-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut nl-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-nl-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut fr-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-fr-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut ca-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-ca-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-09-03:09-00 1684209700000 rangeland-1-aut
+python3 -m src.scripts.CarbonFootprint rangeland-1-aut tx-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-aut-tx-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut uk-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-uk-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut de-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-de-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut nl-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-nl-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut fr-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-fr-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut ca-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-ca-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-09-03:09-00 1687371000000 rangeland-2-aut
+python3 -m src.scripts.CarbonFootprint rangeland-2-aut tx-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-aut-tx-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut uk-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-uk-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut de-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-de-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut nl-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-nl-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut fr-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-fr-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut ca-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-ca-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-09-03:09-00 1690486500000 rangeland-3-aut
+python3 -m src.scripts.CarbonFootprint rangeland-3-aut tx-aut-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-aut-tx-aut-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win uk-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-uk-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win de-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-de-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win nl-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-nl-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win fr-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-fr-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win ca-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-ca-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-1.csv , 2023-12-03:09-00 1684209700000 rangeland-1-win
+python3 -m src.scripts.CarbonFootprint rangeland-1-win tx-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-1-win-tx-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win uk-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-uk-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win de-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-de-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win nl-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-nl-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win fr-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-fr-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win ca-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-ca-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-2.csv , 2023-12-03:09-00 1687371000000 rangeland-2-win
+python3 -m src.scripts.CarbonFootprint rangeland-2-win tx-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-2-win-tx-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win uk-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-uk-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win de-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-de-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win nl-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-nl-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win fr-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-fr-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win ca-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-ca-win-day-summary.txt output/summary-rangeland/
+python3 -m src.scripts.Convertor change-start-ms rangeland-3.csv , 2023-12-03:09-00 1690486500000 rangeland-3-win
+python3 -m src.scripts.CarbonFootprint rangeland-3-win tx-win-day-marg 80.0 135.0 1.0 0.392
+mv output/rangeland-3-win-tx-win-day-summary.txt output/summary-rangeland/
