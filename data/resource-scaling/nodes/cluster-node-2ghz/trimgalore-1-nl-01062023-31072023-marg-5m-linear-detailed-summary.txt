@@ -3,11 +3,11 @@ Detailed Report for trimgalore-1-nl-01062023-31072023-marg-5m-linear
 Top 10 Tasks - ranked by footprint, energy and realtime:
 
 name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
-proc (1),1,30.39349428242886,0.09481103748673494,780.0|780.0|780.0|780.0|780.0|12.0|12.0|12.0|12.0|12.0|12.0|12.0|12.0,3757871,Intel(R) Xeon(R) Gold 6426Y,1,None,636.0,1571823616.0,None
+proc (1),1,9.45718477169147,0.09481103748673494,12.0|12.0|12.0|12.0|12.0|157.0|157.0|157.0|157.0|157.0|157.0|157.0|157.0,3757871,Intel(R) Xeon(R) Gold 6426Y,1,None,636.0,1571823616.0,None
 
 Top 10 Tasks - ranked by energy and realtime:
 
 name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
-proc (1),1,30.39349428242886,0.09481103748673494,780.0|780.0|780.0|780.0|780.0|12.0|12.0|12.0|12.0|12.0|12.0|12.0|12.0,3757871,Intel(R) Xeon(R) Gold 6426Y,1,None,636.0,1571823616.0,None
+proc (1),1,9.45718477169147,0.09481103748673494,12.0|12.0|12.0|12.0|12.0|157.0|157.0|157.0|157.0|157.0|157.0|157.0|157.0,3757871,Intel(R) Xeon(R) Gold 6426Y,1,None,636.0,1571823616.0,None
 
 The top 10 tasks with the largest energy and realtime have the largest footprint.

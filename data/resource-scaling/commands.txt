@@ -1,7 +1,5 @@
 Commands for Task Examples - With CI Intervals at 5m Granularity
 
-# cluster-a-node resource assignment 
-
 # marginal CI only 
 # 5m granularity needed for
 # ca-01102023-31122023-marg-5m
@@ -14,31 +12,36 @@ python3 -m src.scripts.IchnosCF TRACE_NAME-1 CI_DATA_NAME linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF TRACE_NAME-2 CI_DATA_NAME linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF TRACE_NAME-3 CI_DATA_NAME linear 5 1.0 0.392
 
+# cluster node default time adjustment -- update to 22-10 for correct UTC timing
+
+python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-11-26:21-10 1730981762241 trimgalore-1
+python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-11-26:21-10 1730984143236 trimgalore-2
+python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-11-26:21-10 1730986494595 trimgalore-3
+
 # default {'idle': 62.73333333333333, 'max': 344.0933333333333}
 python3 -m src.scripts.IchnosCF trimgalore-1 ca-01102023-31122023-marg-5m linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF trimgalore-2 ca-01102023-31122023-marg-5m linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF trimgalore-3 ca-01102023-31122023-marg-5m linear 5 1.0 0.392
 
+# adjust to 11:30, therefore set time to 12:30
+
 # 4000mhz: {'idle': 112.53666666666668, 'max': 347.22333333333336}
-python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1730909397092 trimgalore-1
-python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730911730096 trimgalore-2
-python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730914073090 trimgalore-3
+python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:12-30 1730909397092 trimgalore-1
+python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:12-30 1730911730096 trimgalore-2
+python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:12-30 1730914073090 trimgalore-3
 
 # 2000mhz: {'idle': 61.776666666666664, 'max': 207.9466666666667}
-python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1730735008262 trimgalore-1
-python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730739200039 trimgalore-2
-python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730809803567 trimgalore-3
+python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:12-30 1730735008262 trimgalore-1
+python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:12-30 1730739200039 trimgalore-2
+python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:12-30 1730809803567 trimgalore-3
 
-# 3000mhz: {'idle': 112.76666666666667, 'max': 323.75333333333333}
-python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1730886447417 trimgalore-1
-python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730889267955 trimgalore-2
-python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730892102020 trimgalore-3
-
+# estimate footprint
 python3 -m src.scripts.IchnosCF trimgalore-1 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF trimgalore-2 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF trimgalore-3 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
 
-# edge server 
+# edge server -- update to 21:10
+
 # default: {'idle': 15.096666666666666, 'max': 34.86}
 python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-11-26:21-10 1731928193307 trimgalore-1
 python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-11-26:21-10 1733397499946 trimgalore-2

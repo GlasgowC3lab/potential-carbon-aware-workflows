@@ -1,2 +1,0 @@
-name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
-proc (1),1,50.525133326672766,0.10456302802598148,780.0|780.0|780.0|780.0|780.0|12.0|12.0|12.0|12.0,2453131,Intel(R) Xeon(R) Gold 6426Y,1,None,617.0,1395257344.0,None
