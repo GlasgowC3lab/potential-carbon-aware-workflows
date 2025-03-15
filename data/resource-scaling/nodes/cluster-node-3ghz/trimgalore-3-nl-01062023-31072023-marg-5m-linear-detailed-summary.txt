@@ -1,0 +1,13 @@
+Detailed Report for trimgalore-3-nl-01062023-31072023-marg-5m-linear
+
+Top 10 Tasks - ranked by footprint, energy and realtime:
+
+name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
+proc (1),1,50.56483393244393,0.10435293620555552,780.0|780.0|780.0|780.0|780.0|12.0|12.0|12.0|12.0,2446100,Intel(R) Xeon(R) Gold 6426Y,1,None,619.0,1395560448.0,None
+
+Top 10 Tasks - ranked by energy and realtime:
+
+name,id,co2e,energy,avg_ci,realtime,cpu_model,cpu_count,cpu_powerdraw,cpu_usage,memory,memory_powerdraw
+proc (1),1,50.56483393244393,0.10435293620555552,780.0|780.0|780.0|780.0|780.0|12.0|12.0|12.0|12.0,2446100,Intel(R) Xeon(R) Gold 6426Y,1,None,619.0,1395560448.0,None
+
+The top 10 tasks with the largest energy and realtime have the largest footprint.

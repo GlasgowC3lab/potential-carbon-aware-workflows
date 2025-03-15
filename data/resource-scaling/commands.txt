@@ -24,14 +24,15 @@ python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:1
 python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730911730096 trimgalore-2
 python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730914073090 trimgalore-3
 
-python3 -m src.scripts.IchnosCF trimgalore-1 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
-python3 -m src.scripts.IchnosCF trimgalore-2 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
-python3 -m src.scripts.IchnosCF trimgalore-3 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
-
 # 2000mhz: {'idle': 61.776666666666664, 'max': 207.9466666666667}
-python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1732210057520 trimgalore-1
-python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1732550373524 trimgalore-2
-python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1732214882051 trimgalore-3
+python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1730735008262 trimgalore-1
+python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730739200039 trimgalore-2
+python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730809803567 trimgalore-3
+
+# 3000mhz: {'idle': 112.76666666666667, 'max': 323.75333333333333}
+python3 -m src.scripts.Convertor change-start-ms trimgalore-1.csv , 2023-07-01:11-30 1730886447417 trimgalore-1
+python3 -m src.scripts.Convertor change-start-ms trimgalore-2.csv , 2023-07-01:11-30 1730889267955 trimgalore-2
+python3 -m src.scripts.Convertor change-start-ms trimgalore-3.csv , 2023-07-01:11-30 1730892102020 trimgalore-3
 
 python3 -m src.scripts.IchnosCF trimgalore-1 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
 python3 -m src.scripts.IchnosCF trimgalore-2 nl-01062023-31072023-marg-5m linear 5 1.0 0.392
